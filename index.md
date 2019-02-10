@@ -1,2 +1,1 @@
-# Welcome to Slipshift's Homepage #
-## Projects ##
+##** Projects **##
